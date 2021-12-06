@@ -1,9 +1,0 @@
-{
-    "name": "zlxfeng/printer",
-    "autoload": {
-        "psr-4": {
-            "Zlxfeng\\Printer\\": "src/"
-        }
-    },
-    "require": {}
-}
