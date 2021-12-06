@@ -1,0 +1,9 @@
+{
+    "name": "root/printer",
+    "autoload": {
+        "psr-4": {
+            "Root\\Printer\\": "src/"
+        }
+    },
+    "require": {}
+}  
