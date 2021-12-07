@@ -11,6 +11,7 @@
             "email": "zj792497320@163.com"
         }
     ],
+    "license": "Apache",
     "require": {
         "php": ">=7.1.0"
     }
