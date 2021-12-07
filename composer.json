@@ -1,5 +1,5 @@
 {
-    "name": "root/printer",
+    "name": "zlxfeng/printer",
     "autoload": {
         "psr-4": {
             "Root\\Printer\\": "src/"
