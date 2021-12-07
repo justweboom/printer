@@ -2,14 +2,16 @@
     "name": "zlxfeng/printer",
     "autoload": {
         "psr-4": {
-            "Root\\Printer\\": "src/"
+            "Zlxfeng\\Printer\\": "src/"
         }
     },
-    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "zhang",
+            "email": "zj792497320@163.com"
+        }
+    ],
     "require": {
-        "php":">=7.1.0"
-    },
-    "require-dev": {
-        "php":">=7.1.0"
+        "php": ">=7.1.0"
     }
-}  
+}
